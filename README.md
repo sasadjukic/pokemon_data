@@ -2,11 +2,11 @@
 <strong>ABOUT</strong><br>
 A descriptive analytics of Pokemons with Python, Pandas and Matplotlib. Analysis based on the data chart from Kaggle.
 
-<strong>DATA COVERED<strong><br>
+<strong>DATA COVERED</strong><br>
 - Legendary vs Non-legendary stats
-- Frequency of Type 1s among 50 best attackers
-- Frequency of Type 1s among 50 best defenders
-- Frequency of Type 1s among 50 best overall stats
+- Top 50 attackers by Type 1
+- Top 50 defenders by Type 1
+- Top 50 overall stats by Type 1
 - Share of Double Types (Pokemons with both Type 1 and Type 2) among 50 best attackers
 - Share of Double Types (Pokemons with both Type 1 and Type 2) among 50 best defenders
 - Share of legendaries among 50 best attackers
@@ -14,3 +14,4 @@ A descriptive analytics of Pokemons with Python, Pandas and Matplotlib. Analysis
 
 <strong>SCREENSHOTS</strong>
 <img src="./assets/pokemon_legendary.png" />
+<img src="./assets/best_attackers_by_type.png" />
