@@ -12,6 +12,10 @@ A descriptive analytics of Pokemons with Python, Pandas and Matplotlib. Analysis
 - Share of legendaries among 50 best attackers
 - Share of legendaries among 50 best defenders 
 
+<strong>NOTES</strong><br>
+Created in VS Code and split code into smaller modules for clarity and ease of navigation 
+
 <strong>SCREENSHOTS</strong>
 <img src="./assets/pokemon_legendary.png" />
 <img src="./assets/best_attackers_by_type.png" />
+<img src="./assets/best_defenders_by_type.png" />
