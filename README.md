@@ -19,3 +19,5 @@ Created in VS Code and split code into smaller modules for clarity and ease of n
 <img src="./assets/pokemon_legendary.png" />
 <img src="./assets/best_attackers_by_type.png" />
 <img src="./assets/best_defenders_by_type.png" />
+<img src="./assets/best_overall_stats_by_type.png" />
+
