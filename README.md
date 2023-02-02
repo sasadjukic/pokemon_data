@@ -22,6 +22,7 @@ Created in VS Code, so I split code into smaller modules for clarity and ease of
 <img src="./assets/legendaries_among_best_attackers.png" />
 <img src="./assets/best_defenders_by_type.png" />
 <img src="./assets/dual_types_among_best_defenders.png" />
+<img src="./assets/legendaries_among_best_defenders.png" />
 <img src="./assets/best_overall_stats_by_type.png" />
 
 
